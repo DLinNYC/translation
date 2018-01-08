@@ -1,0 +1,4 @@
+data/
+ckpt/
+*.p
+__pycache__/
